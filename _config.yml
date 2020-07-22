@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: troppingz@gmail.com
 description: "来不及解释了，快上车:P"
 keyword: "操作系统，C，体系结构，程序员日常"
-url: "https://tropping.ink"              # your host, for absolute URL
+url: "https://tr0py.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
