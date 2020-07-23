@@ -1,11 +1,11 @@
 # Site settings
 title: 菜懿的前半生
 SEOTitle: 菜懿的前半生 | The First Half of My Life
-header-img: img/home-bg.jpg
+header-img: img/ram01.png
 email: troppingz@gmail.com
 description: "来不及解释了，快上车:P"
 keyword: "操作系统，C，体系结构，程序员日常"
-url: "https://tr0py.github.io/"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "\"离开世界之前，一切都是过程\"<br>      --Hux"
 sidebar-avatar: /img/avatar-tropping-1.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -101,10 +101,10 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-    }
-]
+#friends: [
+#    {
+#    #     title: "Su",
+#    #     href: "http://su.gallery/"
+#    # },{
+#    }
+#]
