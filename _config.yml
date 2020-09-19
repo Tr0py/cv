@@ -1,110 +1,16 @@
-# Site settings
-title: 菜懿的前半生
-SEOTitle: 菜懿的前半生 | The First Half of My Life
-header-img: img/ram01.png
-email: troppingz@gmail.com
-description: "来不及解释了，快上车:P"
-keyword: "操作系统，C，体系结构，程序员日常"
-url: ""              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+# Welcome to Jekyll!
+title: Online &hearts; Resume
+url:
+baseurl:
 
-# Publish posts or collection documents with a future date.
-future: true
+# Sass setting
+sass:
+  sass_dir: _sass
+  style:    compressed
 
-# SNS settings
-RSS: false
-weibo_username:     Tropping
-zhihu_username:     HLID
-github_username:    Tr0py
-twitter_username:   tropping
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
-
-
-
-# Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
-permalink: pretty
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
-
-
-
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
-
-
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-
-
-# Disqus settings
-disqus_username: tropping
-
-# Netease settings
-netease_comment: false
-
-
-
-# Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
-
-# Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
-
-
-
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "\"离开世界之前，一切都是过程\"<br>      --Hux"
-sidebar-avatar: /img/avatar-tropping-1.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
-
-# Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
-
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
-
-
-
-# MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
-
-
-
-# Friends
-#friends: [
-#    {
-#    #     title: "Su",
-#    #     href: "http://su.gallery/"
-#    # },{
-#    }
-#]
+# Custom
+lang: en                    # html lang
+open: true                  # open or close your site
+date_format: "%Y-%m-%d"     # date format
+google_analytics:           # your google analytics
+theme_color: "#0080FF"      # your favorite theme color

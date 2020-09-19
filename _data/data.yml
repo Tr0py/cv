@@ -1,0 +1,154 @@
+intro:
+  name: Ziyi Zhao
+  title: |
+      Research Assistant @ Nankai University
+  avatar:
+    display: true
+    path: avatar2019.jpg
+
+contact:
+  email: troppingz at gmail dot com
+  phone: 
+  whatsapp:
+  telegram:
+  website: 
+  medium:
+  linkedin:
+  github: https://github.com/Tr0py
+  gitlab:
+  bitbucket:
+  twitter: 
+  stackoverflow:
+  quora:
+  goodreads:
+
+languages:
+  display: true
+  title: Languages
+  items:
+    - idiom: Chinese
+      level: Native
+    - idiom: English
+      level: Professional
+
+interests:
+  display: true
+  title: Interests
+  items:
+    - item: Reading
+      link:
+    - item: Cooking
+      link:
+
+profile:
+  display: true
+  title: Biography
+  #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
+  details: |
+      I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm), [Nankai University](http://en.nankai.edu.cn/) in 2020. During this time, I got interested in computer systems and became a research assistant. I participated in several related research projects, under the supervision of Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm), and Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/). Now I've got three papers accepted and two papers submitted. I'm enjoying the research and looking for a Ph.D. position now.
+      
+
+education:
+  display: true
+  title: Experiences & Education
+  items:
+    - university: Nankai University
+      time: 2019 - Present
+      major: Research Assistant
+      degree: Information Security & Embedded System Lab
+      details: |
+          3 papers accepted.
+    - university: Nankai University
+      time: 2016 - 2020
+      major: Bachelor of Engineering 
+      degree: Department of Computer Science & Engineering
+      details: |
+        + **Major GPA**: 89/100 (rank 4/54)
+        + **Selected Awards**: Academic Excellence Scholarship and Innovation Scholarship (Awarded to top 5%)
+
+experiences:
+  display: false
+  title: Experiences
+  items:
+    - role: Backend Developer
+      time: 2018.03 - 2019.03
+      company: Second Company
+      tag:
+      location: Beijing
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+        ...
+
+    - role: Backend Developer
+      time: 2017.03 - 2018.03
+      company: First Company
+      tag: Remote, part-time
+      location: Beijing
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+        ...
+
+projects:
+  display: true
+  title: Projects
+  intro: |
+    This is all the projects I'm involved in.
+
+  items:
+    - name: Foo
+      link: https://www.google.com
+      details: |
+        Project Foo's detail, you can write markdown format text.
+
+    - name: Bar
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
+
+publications:
+  display: true
+  title: Publications
+  intro: |
+    This is all the books I wrote.
+
+  items:
+    - title: Foo in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: https://www.google.com
+    - title: The Art of Bar
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+
+skills:
+  display: true
+  title: News
+  details: |
+    Here is my skills:
+    + First
+    + Second
+
+    ...
+
+evaluation:
+  display: true
+  title: Self-evaluation
+  details: |
+    Here is my self evaluation.
+    + First
+    + Second
+
+    ...
+
+footer:
+  display: true
+
+close: >
+  Sorry, my resume has been hidden.

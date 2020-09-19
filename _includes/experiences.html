@@ -1,0 +1,37 @@
+{% assign experiences = data.experiences %}
+{% if experiences and experiences.display %}
+<section class="section experiences-section">
+    <div class="section-title">
+        {{ experiences.title }}
+    </div>
+
+    {% for experience in experiences.items %}
+    <div class="item">
+
+        <div class="upper-row">
+            <div class="company">
+                {{ experience.company }}
+                {% if experience.tag %}
+                <small>[{{ experience.tag }}]</small>
+                {% endif %}
+            </div>
+            <div class="time">{{ experience.time }}</div>
+        </div>
+
+        <div class="upper-row">
+            <div class="role">{{ experience.role }}</div>
+            <div class="location">{{ experience.location }}</div>
+        </div>
+
+
+        {% if experience.details %}
+        <div class="details">
+            {{ experience.details | markdownify }}
+        </div>
+        {% endif %}
+
+    </div>
+    {% endfor %}
+
+</section>
+{% endif %}
