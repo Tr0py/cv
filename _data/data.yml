@@ -23,7 +23,7 @@ contact:
   goodreads:
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -32,7 +32,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -45,7 +45,14 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm), [Nankai University](http://en.nankai.edu.cn/) in 2020. During this time, I got interested in computer systems and became a research assistant. I participated in several related research projects, under the supervision of Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm), and Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/). Now I've got three papers accepted and two papers submitted. I'm enjoying the research and looking for a Ph.D. position now.
+      I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm), [Nankai University](http://en.nankai.edu.cn/) in 2020. 
+      During this time, I got interested in computer systems and became a research assistant. 
+      I participated in several related research projects, under the supervision of Prof. [Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm), also with guidances from
+      Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/)
+      and Prof. [Wenwen Wang](http://cobweb.cs.uga.edu/~wenwen/).
+      Now I've got three papers accepted and two papers submitted. I'm enjoying the research and looking for a Ph.D. position now.
+      
+      My research interests include but not limit to: computer systems, architectures, parallel and high performance computing. Current areas of focus include: cross-ISA virtualization and dynamic binary translation, and efficient parallel program emulation techniques for many-core systems.
       
 
 education:
@@ -57,7 +64,6 @@ education:
       major: Research Assistant
       degree: Information Security & Embedded System Lab
       details: |
-          3 papers accepted.
     - university: Nankai University
       time: 2016 - 2020
       major: Bachelor of Engineering 
@@ -94,58 +100,47 @@ experiences:
 
         ...
 
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
 
 publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
+      * Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves  
+        Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
+        *The ACM/IFIP Middleware Conference 2020 (**Middleware 2020**), Delft, Netherlands, December 2020*
+      * [DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403)  
+        ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
+        *The 49th International Conference on Parallel Processing (**ICPP 2020**), Edmonton, AB, Canada, August 2020*
+      * [SELWasm: A Code Protection Mechanism for WebAssembly](https://ieeexplore.ieee.org/abstract/document/9047432)   
+        Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
+        *The 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (**ISPA 2019**), Xiamen, China, December 2019*
 
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+projects:
+  display: false
+  title: Projects
+  intro: |
+      TBD.
+
 
 skills:
   display: true
   title: News
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+      * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/).
+      * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardee in my department.
+      * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20).
+      * [10/2019]   A paper accepted to [ISPA 2019](https://www.science-community.org/en/node/204398).
 
 evaluation:
   display: true
-  title: Self-evaluation
+  title: Selected Honors & Awards
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
+      * Academic Excellence Scholarship (2 out of 54 in my department), 2019
+      * Innovative Scholarship, 2019
+      * College Students Information Security Competition, Second Prize, 2018
+      * Qiang Wang Cup Cyber Security Competition, Excellence Prize, 2018
+      * The Mathematical Contest in Modeling, Honorable Mention, 2017
+      * Nation Olympiad of Informatics (Advanced), Second Prize in Province, 2015
 
 footer:
   display: true
