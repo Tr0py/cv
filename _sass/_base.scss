@@ -76,11 +76,12 @@ p {
                 margin: 0 .25em;
             }
         }
+		padding-bottom: 40px;
     }
 
     .avatar {
         float: right;
-        max-width: 100px;
+        max-width: 130px;
         margin-bottom: $spacing-unit;
         border: 0px solid $wrapper-color;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);

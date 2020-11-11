@@ -4,7 +4,7 @@ intro:
       Research Assistant @ Nankai University
   avatar:
     display: true
-    path: avatar2019.jpg
+    path: photo-2020-s.jpeg
 
 contact:
   email: troppingz at gmail dot com
@@ -14,7 +14,7 @@ contact:
   website: 
   medium:
   linkedin:
-  github: https://github.com/Tr0py
+  github: Tr0py
   gitlab:
   bitbucket:
   twitter: 
@@ -50,7 +50,7 @@ profile:
       I participated in several related research projects, under the supervision of Prof. [Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm), also with guidances from
       Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/)
       and Prof. [Wenwen Wang](http://cobweb.cs.uga.edu/~wenwen/).
-      Now I've got three papers accepted and two papers submitted. I'm enjoying the research and looking for a Ph.D. position now.
+      Now I've got four papers accepted. I'm enjoying the research and looking for a Ph.D. position now.
       
       My research interests include but not limit to: computer systems, architectures, parallel and high performance computing. Current areas of focus include: cross-ISA virtualization and dynamic binary translation, and efficient parallel program emulation techniques for many-core systems.
       
@@ -105,13 +105,16 @@ publications:
   display: true
   title: Publications
   intro: |
-      * Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves  
-        Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *The ACM/IFIP Middleware Conference 2020 (**Middleware 2020**), Delft, Netherlands, December 2020*
-      * [DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403)  
+      * **Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation** (to appear)  
+        ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
+        *International Symposium on Code Generation and Optimization (**CGO 2021**), Virtual Conference, February 27th - March 3rd, 2021*
+      * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403)  
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
         *The 49th International Conference on Parallel Processing (**ICPP 2020**), Edmonton, AB, Canada, August 2020*
-      * [SELWasm: A Code Protection Mechanism for WebAssembly](https://ieeexplore.ieee.org/abstract/document/9047432)   
+      * **Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves** (to appear)   
+        Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
+        *The ACM/IFIP Middleware Conference 2020 (**Middleware 2020**), Delft, Netherlands, December 2020*
+      * [**SELWasm: A Code Protection Mechanism for WebAssembly**](https://ieeexplore.ieee.org/abstract/document/9047432)   
         Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
         *The 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (**ISPA 2019**), Xiamen, China, December 2019*
 
@@ -126,6 +129,7 @@ skills:
   display: true
   title: News
   details: |
+      * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021).
       * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/).
       * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardee in my department.
       * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20).
