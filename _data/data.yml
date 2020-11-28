@@ -114,6 +114,14 @@ publications:
         
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
         *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021)**), Virtual Conference, February 27th - March 3rd, 2021*
+      * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](./assets/materials/SGX-Middleware2020.pdf)
+      [\[paper\]](./assets/materials/SGX-Middleware2020.pdf)
+      [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx)
+      [\[slides\]](./assets/materials/SGX-slides-Middleware2020.pdf)
+      [\[talk\]](https://youtu.be/ebiNA2yXGz4)
+
+        Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
+        *The ACM/IFIP Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/)**), Delft, Netherlands, December 2020*
       * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403)
       [\[paper\]](./assets/materials/DQEMU-ICPP2020.pdf)
       [\[code\]](https://github.com/NKU-EmbeddedSystem/DQEMU)
@@ -122,13 +130,6 @@ publications:
         
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
         *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20)**), Edmonton, AB, Canada, August 2020*
-      * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](./assets/materials/SGX-Middleware2020.pdf)
-      [\[paper\]](./assets/materials/SGX-Middleware2020.pdf)
-      [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx)
-      [\[talk\]](https://youtu.be/ebiNA2yXGz4)
-
-        Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *The ACM/IFIP Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/)**), Delft, Netherlands, December 2020*
       * [**SELWasm: A Code Protection Mechanism for WebAssembly**](https://ieeexplore.ieee.org/abstract/document/9047432)   
         Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
         *The 17th IEEE International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398)), Xiamen, China, December 2019*
