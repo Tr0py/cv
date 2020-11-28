@@ -51,8 +51,10 @@ profile:
       Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/)
       and Prof. [Wenwen Wang](http://cobweb.cs.uga.edu/~wenwen/).
       Now I've got four papers accepted. I'm enjoying the research and looking for a Ph.D. position now.
-      
-      My research interests include but not limit to: computer systems, architectures, parallel and high performance computing. Current areas of focus include: cross-ISA virtualization and dynamic binary translation, and efficient parallel program emulation techniques for many-core systems.
+
+      My primary **research interests** include Distributed Systems, Large Scale Computing/Storage Systems, Operating Systems, Parallel Processing, Computer Architectures and Security. 
+
+      Current areas of focus include Cross-ISA Virtualization, Dynamic Binary Translation, JIT Security and Disaggragated Systems.
       
 
 education:
@@ -71,6 +73,7 @@ education:
       details: |
         + **Major GPA**: 89/100 (rank 4/54)
         + **Selected Awards**: Academic Excellence Scholarship and Innovation Scholarship (Awarded to top 5%)
+        + Visiting student to University of Minnesota, Twin Cities, supervised by Prof. Pen-Chung Yew in July-Sep, 2019.
 
 experiences:
   display: false
@@ -105,18 +108,30 @@ publications:
   display: true
   title: Publications
   intro: |
-      * **Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation** (to appear)  
+      * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](./assets/materials/QEMU-ABA-CGO2021.pdf)
+      [\[paper(draft)\]](./assets/materials/QEMU-ABA-CGO2021.pdf)
+      [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC)
+        
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
-        *International Symposium on Code Generation and Optimization (**CGO 2021**), Virtual Conference, February 27th - March 3rd, 2021*
-      * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403)  
+        *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021)**), Virtual Conference, February 27th - March 3rd, 2021*
+      * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403)
+      [\[paper\]](./assets/materials/DQEMU-ICPP2020.pdf)
+      [\[code\]](https://github.com/NKU-EmbeddedSystem/DQEMU)
+      [\[slides\]](./assets/materials/DQEMU-slides-ICPP2020.pdf)
+      [\[talk\]](https://youtu.be/MhkiBe_0gR8)
+        
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
-        *The 49th International Conference on Parallel Processing (**ICPP 2020**), Edmonton, AB, Canada, August 2020*
-      * **Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves** (to appear)   
+        *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20)**), Edmonton, AB, Canada, August 2020*
+      * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](./assets/materials/SGX-Middleware2020.pdf)
+      [\[paper\]](./assets/materials/SGX-Middleware2020.pdf)
+      [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx)
+      [\[talk\]](https://youtu.be/ebiNA2yXGz4)
+
         Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *The ACM/IFIP Middleware Conference 2020 (**Middleware 2020**), Delft, Netherlands, December 2020*
+        *The ACM/IFIP Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/)**), Delft, Netherlands, December 2020*
       * [**SELWasm: A Code Protection Mechanism for WebAssembly**](https://ieeexplore.ieee.org/abstract/document/9047432)   
         Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
-        *The 17th IEEE International Symposium on Parallel and Distributed Processing with Applications (**ISPA 2019**), Xiamen, China, December 2019*
+        *The 17th IEEE International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398)), Xiamen, China, December 2019*
 
 projects:
   display: false
@@ -130,6 +145,7 @@ skills:
   title: News
   details: |
       * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021).
+      * [10/2020]   Participated in an RDMA Hackathon, interesting.
       * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/).
       * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardee in my department.
       * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20).
