@@ -45,16 +45,18 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm), [Nankai University](http://en.nankai.edu.cn/) in 2020. 
-      During this time, I got interested in computer systems and became a research assistant. 
-      I participated in several related research projects, under the supervision of Prof. [Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm), also with guidances from
+      I am a Research Assistant at Nankai University, before this, I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm), [Nankai University](http://en.nankai.edu.cn/) in 2020. 
+      I am actively envolved in research projects, under the supervision of Prof. [Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm), also with guidances from
       Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/)
       and Prof. [Wenwen Wang](http://cobweb.cs.uga.edu/~wenwen/).
-      Now I've got four papers accepted. I'm enjoying the research and looking for a Ph.D. position now.
+      I'm enjoying the research and looking for a Ph.D. position now. [\[CV here\]](./assets/materials/ziyi-resume-2020-12-v6.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ)
 
-      My primary **research interests** include Distributed Systems, Large Scale Computing/Storage Systems, Operating Systems, Parallel Processing, Computer Architectures and Security. 
+      **Research Interests**  
+      My research interests include Operating System and Network, Distributed Systems, Large Scale Computing/Storage Systems, Parallel Processing, Computer Architectures and Security. 
 
-      Current areas of focus include Cross-ISA Virtualization, Dynamic Binary Translation, JIT Security and Disaggragated Systems.
+      Current areas of focus include Cross-ISA Virtualization, Dynamic Binary Translation, JIT Security. I am also interested in design issues in system interacting with Non-volatile Memory and RDMA.
+
+      If you want to discuss with me, feel free to send me an email.
       
 
 education:
@@ -71,8 +73,8 @@ education:
       major: Bachelor of Engineering 
       degree: Department of Computer Science & Engineering
       details: |
-        + **Major GPA**: 89/100 (rank 4/54)
-        + **Selected Awards**: Academic Excellence Scholarship and Innovation Scholarship (Awarded to top 5%)
+        + **_Major_ GPA**: 91/100
+        + **Selected Awards**: Academic Excellence Scholarship, Innovation Scholarship, Distinguished Thesis Award
         + Visiting student to University of Minnesota, Twin Cities, supervised by Prof. Pen-Chung Yew in July-Sep, 2019.
 
 experiences:
