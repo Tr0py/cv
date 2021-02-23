@@ -111,7 +111,7 @@ publications:
   title: Publications
   intro: |
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](./assets/materials/QEMU-ABA-CGO2021.pdf)
-      [\[paper(preprint)\]](./assets/materials/QEMU-ABA-CGO2021.pdf)
+      [\[paper\]](./assets/materials/QEMU-ABA-CGO2021.pdf)
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC)
         
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
