@@ -113,6 +113,7 @@ publications:
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](./assets/materials/QEMU-ABA-CGO2021.pdf)
       [\[paper\]](./assets/materials/QEMU-ABA-CGO2021.pdf)
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC)
+      [\[slides\]](./assets/materials/QEMU-ABA-CGO2021-slides.pdf)
         
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
         *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021)**)(CCF-B), Virtual Conference, February 27th - March 3rd, 2021*
