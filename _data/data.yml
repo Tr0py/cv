@@ -110,13 +110,18 @@ publications:
   display: true
   title: Publications
   intro: |
+      * [**Effective Exploitation of SIMD Resources in Cross-ISA Virtualization**]() (to_be_presented)
+        
+        Jin Wu, Jian Dong, Ruili Fang, ***Ziyi Zhao***, Xiaoli Gong, Wenwen Wang, Decheng Zuo  
+        *International Conference on Virtual Execution Environments (**[VEE 2021](https://conf.researchr.org/home/vee-2021)**). Acceptance rate: 55% (15/27).*
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](./assets/materials/QEMU-ABA-CGO2021.pdf)
       [\[paper\]](./assets/materials/QEMU-ABA-CGO2021.pdf)
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC)
       [\[slides\]](./assets/materials/QEMU-ABA-CGO2021-slides.pdf)
+      [\[talk\]](https://youtu.be/ebiNA2yXGz4)
         
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
-        *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021)**)(CCF-B), Virtual Conference, February 27th - March 3rd, 2021*
+        *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021)**). Acceptance rate: 34% (31/89)*
       * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](./assets/materials/SGX-Middleware2020.pdf)
       [\[paper\]](./assets/materials/SGX-Middleware2020.pdf)
       [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx)
@@ -124,7 +129,7 @@ publications:
       [\[talk\]](https://youtu.be/ebiNA2yXGz4)
 
         Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *The ACM/IFIP Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/)**)(CCF-B), Delft, Netherlands, December 2020*
+        *Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/)**). Acceptance rate: 25% (30/119)*
       * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403)
       [\[paper\]](./assets/materials/DQEMU-ICPP2020.pdf)
       [\[code\]](https://github.com/NKU-EmbeddedSystem/DQEMU)
@@ -132,10 +137,10 @@ publications:
       [\[talk\]](https://youtu.be/MhkiBe_0gR8)
         
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
-        *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20)**)(CCF-B), Edmonton, AB, Canada, August 2020* 
+        *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20)**). Acceptance rate: 29% (78/269)* 
       * [**SELWasm: A Code Protection Mechanism for WebAssembly**](https://ieeexplore.ieee.org/abstract/document/9047432)   
         Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
-        *The 17th IEEE International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398))(CCF-C), Xiamen, China, December 2019*
+        *International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398))*
 
 projects:
   display: false
@@ -148,10 +153,11 @@ skills:
   display: true
   title: News
   details: |
+      * [03/2021]   A paper accepted to [VEE 2021](https://conf.researchr.org/home/vee-2021).
       * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021).
       * [10/2020]   Participated in an RDMA Hackathon, interesting.
       * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/).
-      * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardee in my department.
+      * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardees in my department.
       * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20).
       * [10/2019]   A paper accepted to [ISPA 2019](https://www.science-community.org/en/node/204398).
 
