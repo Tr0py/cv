@@ -138,9 +138,6 @@ publications:
         
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
         *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20)**). Acceptance rate: 29% (78/269)* 
-      * [**SELWasm: A Code Protection Mechanism for WebAssembly**](https://ieeexplore.ieee.org/abstract/document/9047432)   
-        Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
-        *International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398))*
 
 projects:
   display: false
@@ -159,10 +156,9 @@ skills:
       * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/).
       * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardees in my department.
       * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20).
-      * [10/2019]   A paper accepted to [ISPA 2019](https://www.science-community.org/en/node/204398).
 
 evaluation:
-  display: true
+  display: false
   title: Selected Honors & Awards
   details: |
       * Academic Excellence Scholarship (2 out of 54 in my department), 2019
